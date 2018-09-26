@@ -35,3 +35,5 @@ STEPS:
 3. On start of game, the next state would be computed depending on the current state of every cell by invoking the ApplyTick method.
 The necessary business logic is added into the respective classes.
 
+
+Also, to get the visual display of the grid, representing ALIVE as "X" and DEAD as "." has been implemented.
